@@ -1,0 +1,1 @@
+# check-sum-of-digits-at-even-position-and-odd-position-are-same-or-not
